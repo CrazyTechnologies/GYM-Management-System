@@ -1,0 +1,53 @@
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star Gym.csprojAssemblyReference.cache
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Members.resources
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Properties.Resources.resources
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star Gym.csproj.GenerateResource.cache
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star Gym.csproj.CoreCompileInputs.cache
+D:\Software course\Star GYM\Star Gym\Star Gym\bin\Debug\Star Gym.exe.config
+D:\Software course\Star GYM\Star Gym\Star Gym\bin\Debug\Star Gym.exe
+D:\Software course\Star GYM\Star Gym\Star Gym\bin\Debug\Star Gym.pdb
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star Gym.exe
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star Gym.pdb
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Menu.resources
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Equipment.resources
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Members2.resources
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Menu2.resources
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Form1.resources
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Equipment2.resources
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Staff.resources
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Register.resources
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Selection_Menu.resources
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Edit_Members2.resources
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Account_edit.resources
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Delete_Account.resources
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.AccountMenu2.resources
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Delete_Account2.resources
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Form2.resources
+D:\Software course\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.LOGIN.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\bin\Debug\Star Gym.exe.config
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\bin\Debug\Star Gym.exe
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\bin\Debug\Star Gym.pdb
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star Gym.csproj.AssemblyReference.cache
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star Gym.csproj.SuggestedBindingRedirects.cache
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.AccountMenu2.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Account_edit.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Delete_Account.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Delete_Account2.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Edit_Members2.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Equipment.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Equipment2.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Form1.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Form2.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.LOGIN.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Members.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Members2.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Menu.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Menu2.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Properties.Resources.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Register.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Selection_Menu.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star_Gym.Staff.resources
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star Gym.csproj.GenerateResource.cache
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star Gym.csproj.CoreCompileInputs.cache
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star Gym.exe
+E:\Software course\Diploma\Star GYM\Star Gym\Star Gym\obj\Debug\Star Gym.pdb
